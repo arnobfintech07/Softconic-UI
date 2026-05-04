@@ -7,32 +7,39 @@
 }
 
 .section-title-3 h2 {
-    font-size: 48px !important;
-    font-weight: 700 !important;
+    font-size: 40px !important;
+    font-weight: 600 !important;
+    line-height: 60px !important;
+    text-transform: capitalize !important;
     color: #ffffff !important;
-    margin-bottom: 20px !important;
+    margin-bottom: 7px !important;
 }
 
 .section-title-3 p {
-    color: rgba(255, 255, 255, 0.7) !important;
-    max-width: 600px;
+    color: #B5B5B5 !important;
+    font-size: 15px !important;
+    line-height: 32px !important;
+    letter-spacing: 0.03em !important;
+    max-width: 720px !important;
 }
 
 .swiper-btn-group {
     gap: 20px !important;
 }
 
+/* Standardize Both Navigation Buttons to Outline Style */
 .swiper-btn-group .swiper-btn {
     width: 45px !important;
     height: 45px !important;
     border: 2px solid #00da89 !important;
-    background-color: transparent !important;
     border-radius: 50% !important;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-    transition: all 0.3s ease;
+    background: transparent !important;
+    color: #00da89 !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    transition: all 0.3s ease !important;
+    cursor: pointer !important;
 }
 
 .swiper-btn-group .swiper-btn i {
@@ -40,39 +47,38 @@
     font-size: 24px !important;
 }
 
-.swiper-btn-group .prevbtn1 {
+.swiper-btn-group .swiper-btn:hover {
     background-color: #00da89 !important;
 }
 
-.swiper-btn-group .prevbtn1 i {
+.swiper-btn-group .swiper-btn:hover i {
     color: #000000 !important;
 }
 
 .home3-solution-section .solution-card {
-    background: #151515 !important;
-    background-image: none !important;
+    background-image: url(/assets/img/home-3/pricing-bg-32.png), linear-gradient(#1E1E1E, #1E1E1E) !important;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
     border: 1px solid rgba(255, 255, 255, 0.05) !important;
-    border-radius: 12px !important;
-    padding: 40px !important;
+    border-radius: 5px !important;
+    padding: 30px !important;
     min-height: 450px;
-    transition: transform 0.3s ease;
+    transition: 0.5s;
 }
 
 .home3-solution-section .solution-card:hover {
-    transform: translateY(-5px);
-    border-color: rgba(0, 218, 137, 0.3) !important;
+    background-image: url(/assets/img/home-3/pricing-bg-32.png), linear-gradient(rgba(117, 218, 180, 0.1), rgba(117, 218, 180, 0.1)) !important;
 }
 
 .home3-solution-section .solution-card .icon svg {
-    fill: none !important;
-    stroke: #00da89 !important;
-    stroke-width: 1.5;
+    fill: #00da89 !important;
 }
 
-/* Specific fix for the solution card icon colors */
-.solution-card .icon svg path {
-    stroke: #00da89 !important;
-    fill: none !important;
+/* Ensure all internal paths also use the theme color */
+.solution-card .icon svg path, 
+.solution-card .icon svg g {
+    fill: #00da89 !important;
+    stroke: none !important;
 }
 
 .home3-solution-section .solution-card .solution-content h4 a {
@@ -102,14 +108,38 @@
 }
 
 .home3-solution-section .solution-card .solution-feature li svg {
-    display: none !important; /* Hide the complex star SVG */
+    display: block !important;
+    fill: #00da89 !important;
 }
 
-.home3-solution-section .solution-card .solution-feature li::before {
-    content: "";
-    width: 8px;
-    height: 8px;
-    background-color: #00da89;
-    border-radius: 50%;
-    flex-shrink: 0;
+/* Feature icon color override */
+.home3-solution-section .solution-card .solution-feature li svg path {
+    fill: #00da89 !important;
 }
+
+/* Marquee Fallback and Layout Fixes */
+.marque-wrap {
+    overflow: hidden;
+    width: 100%;
+}
+
+.marquee_text {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    align-items: center;
+    gap: 50px;
+}
+
+.marquee_text .single-client {
+    flex: 0 0 auto !important;
+    width: auto !important;
+    max-width: 180px;
+    display: flex !important;
+    justify-content: center;
+}
+
+.marquee_text .single-client img {
+    max-width: 100%;
+    height: auto;
+}
+

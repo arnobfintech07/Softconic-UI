@@ -6,87 +6,87 @@ const Header = () => {
     {/*  Start header section  */}
     <header className="header-area2 one">
         <div className="header-logo">
-            <a href="index.html"><img alt="image" className="img-fluid" src="assets/img/logo.svg" /></a>
+            <Link to="/"><img alt="image" className="img-fluid" src="assets/img/logo.svg" /></Link>
         </div>
         <div className="main-menu">
             <div className="mobile-logo-area d-lg-none d-flex justify-content-between align-items-center">
                 <div className="mobile-logo-wrap">
-                    <a href="index.html"><img alt="image" src="assets/img/logo.svg" /></a>
+                    <Link to="/"><img alt="image" src="assets/img/logo.svg" /></Link>
                 </div>
             </div>
             <ul className="menu-list">
                 <li className="menu-item-has-children active">
-                    <a href="index.html#" className="drop-down">Home</a><i className="bi bi-plus dropdown-icon"></i>
+                    <Link to="/" className="drop-down">Home</Link><i className="bi bi-plus dropdown-icon"></i>
                     <ul className="sub-menu">
-                        <li><a href="index.html">Home 01</a></li>
-                        <li><a href="index2.html">Home 02</a></li>
-                        <li><a href="index3.html">Home 03</a></li>
-                        <li><a href="index4.html">Home 04</a></li>
+                        <li><Link to="/">Home 01</Link></li>
+                        <li><Link to="/index2">Home 02</Link></li>
+                        <li><Link to="/index3">Home 03</Link></li>
+                        <li><Link to="/index4">Home 04</Link></li>
                     </ul>
                 </li>
-                <li><a href="about.html">About</a></li>
+                <li><Link to="/about">About</Link></li>
                 <li className="menu-item-has-children">
-                    <a href="index.html#" className="drop-down">Service</a><i className="bi bi-plus dropdown-icon"></i>
+                    <Link to="/" className="drop-down">Service</Link><i className="bi bi-plus dropdown-icon"></i>
                     <ul className="sub-menu">
-                        <li><a href="service.html">Service 01</a></li>
-                        <li><a href="service2.html">Service 02</a></li>
-                        <li><a href="service3.html">Service 03</a></li>
-                        <li><a href="service4.html">Service 04</a></li>
-                        <li><a href="service-details.html">Service Details</a></li>
+                        <li><Link to="/service">Service 01</Link></li>
+                        <li><Link to="/service2">Service 02</Link></li>
+                        <li><Link to="/service3">Service 03</Link></li>
+                        <li><Link to="/service4">Service 04</Link></li>
+                        <li><Link to="/service-details">Service Details</Link></li>
                     </ul>
                 </li>
                 <li className="menu-item-has-children">
-                    <a href="index.html#" className="drop-down">Project</a><i className="bi bi-plus dropdown-icon"></i>
+                    <Link to="/" className="drop-down">Project</Link><i className="bi bi-plus dropdown-icon"></i>
                     <ul className="sub-menu">
-                        <li><a href="project.html">Project</a></li>
+                        <li><Link to="/project">Project</Link></li>
                         <li><a href="project-masonary.html">Project Masonry</a></li>
-                     <li><a href="project-details.html">Project Details</a></li>
+                     <li><Link to="/project-details">Project Details</Link></li>
                     </ul>
                 </li>
                 <li className="menu-item-has-children">
-                    <a href="index.html#" className="drop-down">Pages</a><i className="bi bi-plus dropdown-icon"></i>
+                    <Link to="/" className="drop-down">Pages</Link><i className="bi bi-plus dropdown-icon"></i>
                     <ul className="sub-menu">
                         <li>
-                            <a href="team1.html">Team</a>
+                            <Link to="/team1">Team</Link>
                             <i className="d-lg-flex d-none bi bi-chevron-right dropdown-icon"></i>
                             <i className="d-lg-none d-flex bi bi-plus dropdown-icon"></i>
                             <ul className="sub-menu">
-                                <li><a href="team1.html">Team 01</a></li>
-                                <li><a href="team2.html">Team 02</a></li>
-                                <li><a href="team3.html">Team 03</a></li>
+                                <li><Link to="/team1">Team 01</Link></li>
+                                <li><Link to="/team2">Team 02</Link></li>
+                                <li><Link to="/team3">Team 03</Link></li>
                             </ul>
                         </li>
                         <li>
-                           <a href="pricing.html">Pricing</a>
+                           <Link to="/pricing">Pricing</Link>
                             <i className="d-lg-flex d-none bi bi-chevron-right dropdown-icon"></i>
                             <i className="d-lg-none d-flex bi bi-plus dropdown-icon"></i>
                             <ul className="sub-menu">
-                                <li><a href="pricing.html">Pricing 01</a></li>
-                                <li><a href="pricing2.html">Pricing 02</a></li>
+                                <li><Link to="/pricing">Pricing 01</Link></li>
+                                <li><Link to="/pricing2">Pricing 02</Link></li>
                             </ul>
                         </li>
-                        <li><a href="contact.html">Contact</a></li>
-                        <li><a href="faq.html">FAQs</a></li>
-                        <li><a href="error.html">Error 404</a></li>
+                        <li><Link to="/contact">Contact</Link></li>
+                        <li><Link to="/faq">FAQs</Link></li>
+                        <li><Link to="/404">Error 404</Link></li>
                     </ul>
                 </li>
                 <li className="menu-item-has-children">
-                    <a href="index.html#" className="drop-down">Case Study</a><i className="bi bi-plus dropdown-icon"></i>
+                    <Link to="/" className="drop-down">Case Study</Link><i className="bi bi-plus dropdown-icon"></i>
                     <ul className="sub-menu">
-                        <li><a href="case-study.html">Case study 01</a></li>
-                        <li><a href="case-study2.html">Case study 02</a></li>
+                        <li><Link to="/case-study">Case study 01</Link></li>
+                        <li><Link to="/case-study2">Case study 02</Link></li>
                         <li><a href="case-study-standard.html">Case study standard</a></li>
-                        <li><a href="case-study-details.html">Case study Details</a></li>
+                        <li><Link to="/case-study-details">Case study Details</Link></li>
                     </ul>
                 </li>
                 <li className="menu-item-has-children">
-                    <a href="index.html#" className="drop-down">Blog</a><i className="bi bi-plus dropdown-icon"></i>
+                    <Link to="/" className="drop-down">Blog</Link><i className="bi bi-plus dropdown-icon"></i>
                     <ul className="sub-menu">
-                        <li><a href="blog.html">Blog</a></li>
-                        <li><a href="blog-standard.html">Blog standard</a></li>
-                        <li><a href="blog-sidebar.html">Blog Sidebar</a></li>
-                        <li><a href="blog-masonary.html">Blog Masonary</a></li>
-                        <li><a href="blog-details.html">Blog Details</a></li>
+                        <li><Link to="/blog">Blog</Link></li>
+                        <li><Link to="/blog-standard">Blog standard</Link></li>
+                        <li><Link to="/blog-sidebar">Blog Sidebar</Link></li>
+                        <li><Link to="/blog-masonary">Blog Masonary</Link></li>
+                        <li><Link to="/blog-details">Blog Details</Link></li>
                     </ul>
                 </li>
 
@@ -129,7 +129,7 @@ const Header = () => {
                     </div>
                 </form>
                 <div className="header-btn5">
-                    <a className="primary-btn3" href="contact.html">Get A Quote</a>
+                    <a className="primary-btn3" to="/contact">Get A Quote</a>
                 </div>
             </div>
         </div>
