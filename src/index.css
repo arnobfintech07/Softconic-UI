@@ -1,1 +1,115 @@
 /* Vite default styles removed to prevent interference with Softconic Bootstrap template */
+
+/* Custom overrides to match "Our Solutions" image */
+
+.home3-solution-section {
+    background-color: #0d0d0d !important;
+}
+
+.section-title-3 h2 {
+    font-size: 48px !important;
+    font-weight: 700 !important;
+    color: #ffffff !important;
+    margin-bottom: 20px !important;
+}
+
+.section-title-3 p {
+    color: rgba(255, 255, 255, 0.7) !important;
+    max-width: 600px;
+}
+
+.swiper-btn-group {
+    gap: 20px !important;
+}
+
+.swiper-btn-group .swiper-btn {
+    width: 45px !important;
+    height: 45px !important;
+    border: 2px solid #00da89 !important;
+    background-color: transparent !important;
+    border-radius: 50% !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.swiper-btn-group .swiper-btn i {
+    color: #00da89 !important;
+    font-size: 24px !important;
+}
+
+.swiper-btn-group .prevbtn1 {
+    background-color: #00da89 !important;
+}
+
+.swiper-btn-group .prevbtn1 i {
+    color: #000000 !important;
+}
+
+.home3-solution-section .solution-card {
+    background: #151515 !important;
+    background-image: none !important;
+    border: 1px solid rgba(255, 255, 255, 0.05) !important;
+    border-radius: 12px !important;
+    padding: 40px !important;
+    min-height: 450px;
+    transition: transform 0.3s ease;
+}
+
+.home3-solution-section .solution-card:hover {
+    transform: translateY(-5px);
+    border-color: rgba(0, 218, 137, 0.3) !important;
+}
+
+.home3-solution-section .solution-card .icon svg {
+    fill: none !important;
+    stroke: #00da89 !important;
+    stroke-width: 1.5;
+}
+
+/* Specific fix for the solution card icon colors */
+.solution-card .icon svg path {
+    stroke: #00da89 !important;
+    fill: none !important;
+}
+
+.home3-solution-section .solution-card .solution-content h4 a {
+    font-size: 28px !important;
+    font-weight: 600 !important;
+    color: #ffffff !important;
+}
+
+.home3-solution-section .solution-card .solution-content p {
+    color: rgba(255, 255, 255, 0.6) !important;
+    line-height: 1.6 !important;
+    margin-bottom: 30px !important;
+}
+
+.home3-solution-section .solution-card .solution-feature {
+    padding-top: 20px !important;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.home3-solution-section .solution-card .solution-feature li {
+    font-size: 16px !important;
+    color: #ffffff !important;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 12px !important;
+}
+
+.home3-solution-section .solution-card .solution-feature li svg {
+    display: none !important; /* Hide the complex star SVG */
+}
+
+.home3-solution-section .solution-card .solution-feature li::before {
+    content: "";
+    width: 8px;
+    height: 8px;
+    background-color: #00da89;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
