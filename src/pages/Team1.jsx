@@ -11,10 +11,10 @@ const Team1 = () => {
     <section className="breadcrumbs">
         <div className="breadcrumb-sm-images">
             <div className="inner-banner-1 magnetic-item">
-                <img src="assets/img/inner-pages/inner-banner-1.png" alt="" />
+                <img src="/assets/img/inner-pages/inner-banner-1.png" alt="" />
             </div>
             <div className="inner-banner-2 magnetic-item">
-                <img src="assets/img/inner-pages/inner-banner-2.png" alt="" />
+                <img src="/assets/img/inner-pages/inner-banner-2.png" alt="" />
             </div>
         </div>
         <div className="container">
@@ -25,7 +25,7 @@ const Team1 = () => {
                             <span>Team</span>
                             <h1>"Meet Our Expertise"</h1>
                             <div className="breadcrumb-list">
-                                <Link to="/">Home</Link><img src="assets/img/inner-pages/breadcrumb-arrow.svg" alt="" /> Team
+                                <Link to="/">Home</Link><img src="/assets/img/inner-pages/breadcrumb-arrow.svg" alt="" /> Team
                             </div>
                            
                         </div>
@@ -41,7 +41,7 @@ const Team1 = () => {
                 <div className="col-lg-3 col-sm-6 experts wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div className="experts-card magnetic-item">
                         <div className="experts-img">
-                            <img className="img-fluid" src="assets/img/home-4/experts-01.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-4/experts-01.png" alt="" />
                             <div className="expert-social">
                                 <ul>
                                     <li><Link href="https://www.facebook.com/"><i className="bx bxl-facebook"></i></Link></li>
@@ -60,7 +60,7 @@ const Team1 = () => {
                 <div className="col-lg-3 col-sm-6 experts wow animate fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div className="experts-card magnetic-item">
                         <div className="experts-img">
-                            <img className="img-fluid" src="assets/img/home-4/experts-02.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-4/experts-02.png" alt="" />
                             <div className="expert-social">
                                <ul>
                                     <li><Link href="https://www.facebook.com/"><i className="bx bxl-facebook"></i></Link></li>
@@ -79,7 +79,7 @@ const Team1 = () => {
                 <div className="col-lg-3 col-sm-6 experts wow animate fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div className="experts-card magnetic-item">
                         <div className="experts-img">
-                            <img className="img-fluid" src="assets/img/home-4/experts-03.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-4/experts-03.png" alt="" />
                             <div className="expert-social">
                                <ul>
                                     <li><Link href="https://www.facebook.com/"><i className="bx bxl-facebook"></i></Link></li>
@@ -98,7 +98,7 @@ const Team1 = () => {
                 <div className="col-lg-3 col-sm-6 experts wow animate fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms">
                     <div className="experts-card magnetic-item">
                         <div className="experts-img">
-                            <img className="img-fluid" src="assets/img/home-4/experts-04.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-4/experts-04.png" alt="" />
                             <div className="expert-social">
                                <ul>
                                     <li><Link href="https://www.facebook.com/"><i className="bx bxl-facebook"></i></Link></li>
@@ -117,7 +117,7 @@ const Team1 = () => {
                 <div className="col-lg-3 col-sm-6 experts wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div className="experts-card magnetic-item">
                         <div className="experts-img">
-                            <img className="img-fluid" src="assets/img/home-4/experts-05.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-4/experts-05.png" alt="" />
                             <div className="expert-social">
                                 <ul>
                                     <li><Link href="https://www.facebook.com/"><i className="bx bxl-facebook"></i></Link></li>
@@ -136,7 +136,7 @@ const Team1 = () => {
                 <div className="col-lg-3 col-sm-6 experts wow animate fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div className="experts-card magnetic-item">
                         <div className="experts-img">
-                            <img className="img-fluid" src="assets/img/home-4/experts-06.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-4/experts-06.png" alt="" />
                             <div className="expert-social">
                                <ul>
                                     <li><Link href="https://www.facebook.com/"><i className="bx bxl-facebook"></i></Link></li>
@@ -155,7 +155,7 @@ const Team1 = () => {
                 <div className="col-lg-3 col-sm-6 experts wow animate fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div className="experts-card magnetic-item">
                         <div className="experts-img">
-                            <img className="img-fluid" src="assets/img/home-4/experts-07.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-4/experts-07.png" alt="" />
                             <div className="expert-social">
                                <ul>
                                     <li><Link href="https://www.facebook.com/"><i className="bx bxl-facebook"></i></Link></li>
@@ -174,7 +174,7 @@ const Team1 = () => {
                 <div className="col-lg-3 col-sm-6 experts wow animate fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms">
                     <div className="experts-card magnetic-item">
                         <div className="experts-img">
-                            <img className="img-fluid" src="assets/img/home-4/experts-08.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-4/experts-08.png" alt="" />
                             <div className="expert-social">
                                <ul>
                                     <li><Link href="https://www.facebook.com/"><i className="bx bxl-facebook"></i></Link></li>

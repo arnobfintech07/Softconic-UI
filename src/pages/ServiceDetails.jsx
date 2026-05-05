@@ -11,10 +11,10 @@ const ServiceDetails = () => {
     <section className="breadcrumbs">
         <div className="breadcrumb-sm-images">
             <div className="inner-banner-1 magnetic-item">
-                <img src="assets/img/inner-pages/inner-banner-1.png" alt="" />
+                <img src="/assets/img/inner-pages/inner-banner-1.png" alt="" />
             </div>
             <div className="inner-banner-2 magnetic-item">
-                <img src="assets/img/inner-pages/inner-banner-2.png" alt="" />
+                <img src="/assets/img/inner-pages/inner-banner-2.png" alt="" />
             </div>
         </div>
         <div className="container">
@@ -26,7 +26,7 @@ const ServiceDetails = () => {
                             <h1>"Software
                                 Development"</h1>
                             <div className="breadcrumb-list">
-                                <Link to="/">Home</Link><img src="assets/img/inner-pages/breadcrumb-arrow.svg" alt="" /> Services Details
+                                <Link to="/">Home</Link><img src="/assets/img/inner-pages/breadcrumb-arrow.svg" alt="" /> Services Details
                             </div>
                            
                         </div>
@@ -92,7 +92,7 @@ const ServiceDetails = () => {
                     </div>
                     <div className="col-lg-6 wow animate fadeInRight" data-wow-delay="300ms" data-wow-duration="1500ms">
                         <div className="service-img magnetic-item">
-                            <img className="img-fluid" src="assets/img/inner-pages/about-service-img.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/inner-pages/about-service-img.png" alt="" />
                         </div>
                     </div>
                 </div>
@@ -114,7 +114,7 @@ const ServiceDetails = () => {
                         <div className="col magnetic-item wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                             <div className="single-work">
                                 <div className="work-icon">
-                                    <img src="assets/img/inner-pages/work-icon-01.svg" alt="" />
+                                    <img src="/assets/img/inner-pages/work-icon-01.svg" alt="" />
                                 </div>
                                 <div className="work-content">
                                     <h3>Requirements Gathering.</h3>
@@ -125,7 +125,7 @@ const ServiceDetails = () => {
                         <div className="col magnetic-item wow animate fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                             <div className="single-work">
                                 <div className="work-icon">
-                                    <img src="assets/img/inner-pages/work-icon-02.svg" alt="" />
+                                    <img src="/assets/img/inner-pages/work-icon-02.svg" alt="" />
                                 </div>
                                 <div className="work-content">
                                     <h3>Analysis and Planning.</h3>
@@ -136,7 +136,7 @@ const ServiceDetails = () => {
                         <div className="col magnetic-item wow animate fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
                             <div className="single-work">
                                 <div className="work-icon">
-                                    <img src="assets/img/inner-pages/work-icon-03.svg" alt="" />
+                                    <img src="/assets/img/inner-pages/work-icon-03.svg" alt="" />
                                 </div>
                                 <div className="work-content">
                                     <h3>Design & Development.</h3>
@@ -147,7 +147,7 @@ const ServiceDetails = () => {
                         <div className="col magnetic-item wow animate fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms">
                             <div className="single-work">
                                 <div className="work-icon">
-                                    <img src="assets/img/inner-pages/work-icon-04.svg" alt="" />
+                                    <img src="/assets/img/inner-pages/work-icon-04.svg" alt="" />
                                 </div>
                                 <div className="work-content">
                                     <h3>Testing Device & Release.</h3>
@@ -158,7 +158,7 @@ const ServiceDetails = () => {
                         <div className="col magnetic-item wow animate fadeInUp" data-wow-delay="600ms" data-wow-duration="1500ms">
                             <div className="single-work">
                                 <div className="work-icon">
-                                    <img src="assets/img/inner-pages/work-icon-05.svg" alt="" />
+                                    <img src="/assets/img/inner-pages/work-icon-05.svg" alt="" />
                                 </div>
                                 <div className="work-content">
                                     <h3>Maintenance and Support.</h3>
@@ -175,7 +175,7 @@ const ServiceDetails = () => {
                 <div className="row">
                     <div className="col-lg-12 wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                         <div className="driscription-img magnetic-item">
-                            <img className="img-fluid" src="assets/img/inner-pages/service-driscription-img-1.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/inner-pages/service-driscription-img-1.png" alt="" />
                         </div>
                     </div>
                     <div className="driscription-content">
@@ -205,7 +205,7 @@ const ServiceDetails = () => {
                 <div className="row gy-5">
                     <div className="col-lg-6 wow animate fadeInLeft" data-wow-delay="200ms" data-wow-duration="1500ms">
                         <div className="faq-img magnetic-item">
-                            <img className="img-fluid" src="assets/img/inner-pages/service-faq-img-01.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/inner-pages/service-faq-img-01.png" alt="" />
                         </div>
                     </div>
                     <div className="col-lg-6 d-flex align-items-center wow animate fadeInRight" data-wow-delay="300ms" data-wow-duration="1500ms">

@@ -11,10 +11,10 @@ const ProjectDetails = () => {
     <section className="breadcrumbs">
         <div className="breadcrumb-sm-images">
             <div className="inner-banner-1 magnetic-item">
-                <img src="assets/img/inner-pages/inner-banner-1.png" alt="" />
+                <img src="/assets/img/inner-pages/inner-banner-1.png" alt="" />
             </div>
             <div className="inner-banner-2 magnetic-item">
-                <img src="assets/img/inner-pages/inner-banner-2.png" alt="" />
+                <img src="/assets/img/inner-pages/inner-banner-2.png" alt="" />
             </div>
         </div>
         <div className="container">
@@ -25,7 +25,7 @@ const ProjectDetails = () => {
                             <span>Projects Details</span>
                             <h1>"Streamlining IT Infrastructure"</h1>
                             <div className="breadcrumb-list">
-                                <Link to="/">Home</Link><img src="assets/img/inner-pages/breadcrumb-arrow.svg" alt="" /> Projects Details
+                                <Link to="/">Home</Link><img src="/assets/img/inner-pages/breadcrumb-arrow.svg" alt="" /> Projects Details
                             </div>
                            
                         </div>
@@ -40,19 +40,19 @@ const ProjectDetails = () => {
             <div className="row g-4 mb-80">
                 <div className="col-lg-7">
                     <div className="portfolio-img magnetic-item">
-                        <img className="img-fluid" src="assets/img/inner-pages/portfolio-dt-01.png" alt="" />
+                        <img className="img-fluid" src="/assets/img/inner-pages/portfolio-dt-01.png" alt="" />
                     </div>
                 </div>
                 <div className="col-lg-5">
                     <div className="row g-4">
                         <div className="col-lg-12">
                             <div className="portfolio-img magnetic-item">
-                                <img className="img-fluid" src="assets/img/inner-pages/portfolio-dt-02.png" alt="" />
+                                <img className="img-fluid" src="/assets/img/inner-pages/portfolio-dt-02.png" alt="" />
                             </div>
                         </div>
                         <div className="col-lg-12">
                             <div className="portfolio-img magnetic-item">
-                                <img className="img-fluid" src="assets/img/inner-pages/portfolio-dt-03.png" alt="" />
+                                <img className="img-fluid" src="/assets/img/inner-pages/portfolio-dt-03.png" alt="" />
                             </div>
                         </div>
                     </div>
@@ -79,7 +79,7 @@ const ProjectDetails = () => {
                                 <div className="col-xl-4 col-sm-6">
                                     <div className="single-process magnetic-item">
                                         <div className="icon">
-                                            <img src="assets/img/inner-pages/research.svg" alt="" />
+                                            <img src="/assets/img/inner-pages/research.svg" alt="" />
                                         </div>
                                         <span>Step 01</span>
                                         <h3>Research</h3>
@@ -89,7 +89,7 @@ const ProjectDetails = () => {
                                 <div className="col-xl-4 col-sm-6">
                                     <div className="single-process magnetic-item">
                                         <div className="icon">
-                                            <img src="assets/img/inner-pages/devlopment.svg" alt="" />
+                                            <img src="/assets/img/inner-pages/devlopment.svg" alt="" />
                                         </div>
                                         <span>Step 02</span>
                                         <h3>Development</h3>
@@ -99,7 +99,7 @@ const ProjectDetails = () => {
                                 <div className="col-xl-4 col-sm-6">
                                     <div className="single-process magnetic-item">
                                         <div className="icon">
-                                            <img src="assets/img/inner-pages/deploy.svg" alt="" />
+                                            <img src="/assets/img/inner-pages/deploy.svg" alt="" />
                                         </div>
                                         <span>Step 03</span>
                                         <h3>Deploy</h3>
@@ -111,12 +111,12 @@ const ProjectDetails = () => {
                         <div className="row g-4 mb-55">
                             <div className="col-lg-7 col-sm-6">
                                 <div className="portfolio-img magnetic-item">
-                                    <img className="img-fluid" src="assets/img/inner-pages/portfolio-dt-04.png" alt="" />
+                                    <img className="img-fluid" src="/assets/img/inner-pages/portfolio-dt-04.png" alt="" />
                                 </div>
                             </div>
                             <div className="col-lg-5 col-sm-6">
                                 <div className="portfolio-img magnetic-item">
-                                    <img className="img-fluid" src="assets/img/inner-pages/portfolio-dt-05.png" alt="" />
+                                    <img className="img-fluid" src="/assets/img/inner-pages/portfolio-dt-05.png" alt="" />
                                 </div>
                             </div>
                         </div>
@@ -171,7 +171,7 @@ const ProjectDetails = () => {
                                 <h4><Link to="/project-details">Streamlining IT Infrastructure</Link></h4>
                             </div>
                             <Link to="/project-details" className="img">
-                                <img src="assets/img/inner-pages/portfolio-navigation-01.png" alt="" />
+                                <img src="/assets/img/inner-pages/portfolio-navigation-01.png" alt="" />
                                 <div className="arrow">
                                     <svg width="12" height="12" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M0 1H12M12 1V13M12 1L0.5 12"></path>
@@ -181,7 +181,7 @@ const ProjectDetails = () => {
                         </div>
                         <div className="single-navigation two">
                             <Link to="/project-details" className="img">
-                                <img src="assets/img/inner-pages/portfolio-navigation-02.png" alt="" />
+                                <img src="/assets/img/inner-pages/portfolio-navigation-02.png" alt="" />
                                 <div className="arrow">
                                     <svg width="12" height="12" viewBox="0 0 13 13" fill="none" xmlns="http://www.w3.org/2000/svg">
                                         <path d="M0 1H12M12 1V13M12 1L0.5 12"></path>

@@ -9,10 +9,10 @@ const Contact = () => {
     <section className="breadcrumbs">
         <div className="breadcrumb-sm-images">
             <div className="inner-banner-1 magnetic-item">
-                <img src="assets/img/inner-pages/inner-banner-1.png" alt="" />
+                <img src="/assets/img/inner-pages/inner-banner-1.png" alt="" />
             </div>
             <div className="inner-banner-2 magnetic-item">
-                <img src="assets/img/inner-pages/inner-banner-2.png" alt="" />
+                <img src="/assets/img/inner-pages/inner-banner-2.png" alt="" />
             </div>
         </div>
         <div className="container">
@@ -23,7 +23,7 @@ const Contact = () => {
                             <span>Contact</span>
                             <h1>"For Any Querry"</h1>
                             <div className="breadcrumb-list">
-                                <a href="index.html">Home</a><img src="assets/img/inner-pages/breadcrumb-arrow.svg" alt="" /> Contact
+                                <a href="index.html">Home</a><img src="/assets/img/inner-pages/breadcrumb-arrow.svg" alt="" /> Contact
                             </div>
                            
                         </div>

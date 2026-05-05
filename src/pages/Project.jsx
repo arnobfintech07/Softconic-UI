@@ -11,10 +11,10 @@ const Project = () => {
     <section className="breadcrumbs">
         <div className="breadcrumb-sm-images">
             <div className="inner-banner-1 magnetic-item">
-                <img src="assets/img/inner-pages/inner-banner-1.png" alt="" />
+                <img src="/assets/img/inner-pages/inner-banner-1.png" alt="" />
             </div>
             <div className="inner-banner-2 magnetic-item">
-                <img src="assets/img/inner-pages/inner-banner-2.png" alt="" />
+                <img src="/assets/img/inner-pages/inner-banner-2.png" alt="" />
             </div>
         </div>
         <div className="container">
@@ -25,7 +25,7 @@ const Project = () => {
                             <span>Projects</span>
                             <h1>"Our Completed Projects"</h1>
                             <div className="breadcrumb-list">
-                                <Link to="/">Home</Link><img src="assets/img/inner-pages/breadcrumb-arrow.svg" alt="" /> Projects
+                                <Link to="/">Home</Link><img src="/assets/img/inner-pages/breadcrumb-arrow.svg" alt="" /> Projects
                             </div>
                            
                         </div>
@@ -41,7 +41,7 @@ const Project = () => {
                 <div className="col-lg-4 col-md-6 col-sm-10 wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div className="success-storie-card">
                         <div className="success-img">
-                            <img className="img-fluid magnetic-item" src="assets/img/home-3/home3-suc-sto-01.png" alt="" />
+                            <img className="img-fluid magnetic-item" src="/assets/img/home-3/home3-suc-sto-01.png" alt="" />
                         </div>
                         <div className="success-content">
                             <span>Web development</span>
@@ -59,7 +59,7 @@ const Project = () => {
                 <div className="col-lg-4 col-md-6 col-sm-10 wow animate fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div className="success-storie-card">
                         <div className="success-img">
-                            <img className="img-fluid magnetic-item" src="assets/img/home-3/home3-suc-sto-02.png" alt="" />
+                            <img className="img-fluid magnetic-item" src="/assets/img/home-3/home3-suc-sto-02.png" alt="" />
                         </div>
                         <div className="success-content">
                             <span>Web development</span>
@@ -77,7 +77,7 @@ const Project = () => {
                 <div className="col-lg-4 col-md-6 col-sm-10 wow animate fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div className="success-storie-card">
                         <div className="success-img magnetic-item">
-                            <img className="img-fluid" src="assets/img/home-3/home3-suc-sto-03.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-3/home3-suc-sto-03.png" alt="" />
                         </div>
                         <div className="success-content">
                             <span>Web development</span>
@@ -95,7 +95,7 @@ const Project = () => {
                 <div className="col-lg-4 col-md-6 col-sm-10 wow animate fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div className="success-storie-card">
                         <div className="success-img">
-                            <img className="img-fluid magnetic-item" src="assets/img/home-3/home3-suc-sto-01.png" alt="" />
+                            <img className="img-fluid magnetic-item" src="/assets/img/home-3/home3-suc-sto-01.png" alt="" />
                         </div>
                         <div className="success-content">
                             <span>Web development</span>
@@ -113,7 +113,7 @@ const Project = () => {
                 <div className="col-lg-4 col-md-6 col-sm-10 wow animate fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div className="success-storie-card">
                         <div className="success-img">
-                            <img className="img-fluid magnetic-item" src="assets/img/home-3/home3-suc-sto-02.png" alt="" />
+                            <img className="img-fluid magnetic-item" src="/assets/img/home-3/home3-suc-sto-02.png" alt="" />
                         </div>
                         <div className="success-content">
                             <span>Web development</span>
@@ -131,7 +131,7 @@ const Project = () => {
                 <div className="col-lg-4 col-md-6 col-sm-10 wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div className="success-storie-card">
                         <div className="success-img magnetic-item">
-                            <img className="img-fluid" src="assets/img/home-3/home3-suc-sto-03.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-3/home3-suc-sto-03.png" alt="" />
                         </div>
                         <div className="success-content">
                             <span>Web development</span>

@@ -21,7 +21,7 @@ const Home = () => {
             </a>
         </div>
         <div className="banner-vector">
-            <img className="img-fluid" src="assets/img/home-3/banner-vector.png" alt="" />
+            <img className="img-fluid" src="/assets/img/home-3/banner-vector.png" alt="" />
         </div>
         <div className="swiper-pagination1"></div>
         <div className="social-area">
@@ -52,7 +52,7 @@ const Home = () => {
                             </div>
                         </div>
                         <div className="banner-image magnetic-item">
-                            <img className="img-fluid" src="assets/img/home-3/home3-banner-img.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-3/home3-banner-img.png" alt="" />
                         </div>
                         <div className="banner-video-area">
                             <div className="video-area">
@@ -61,7 +61,7 @@ const Home = () => {
                                         <path opacity="0.3" d="M30 17.0012C30 16.0359 29.4735 15.1469 28.5906 14.6218L4.75661 0.46019C3.79257 -0.111681 2.61693 -0.153462 1.60777 0.351093C0.601772 0.855365 0 1.78612 0 2.83996V31.1609C0 32.2148 0.601723 33.1452 1.60931 33.6498C2.079 33.8837 2.5828 34 3.08665 34C3.66595 34 4.24144 33.8456 4.75628 33.5407L28.5903 19.3813C29.4734 18.8559 30 17.9669 30 17.0016V17.0012ZM27.7302 18.1537L3.89624 32.3131C3.42844 32.5905 2.85862 32.6093 2.36997 32.3668C1.88133 32.1225 1.58884 31.6719 1.58884 31.1607V2.83969C1.58884 2.32846 1.88133 1.8761 2.36997 1.63359C2.59834 1.52102 2.84346 1.46385 3.08699 1.46385C3.36811 1.46385 3.64734 1.53842 3.89658 1.68755L27.7306 15.8492C28.1646 16.1074 28.4135 16.5287 28.4135 17.0033C28.4131 17.4763 28.1642 17.8955 27.7302 18.1537Z"/>
                                     </svg>
                                 </a>
-                                <img className="video-img" src="assets/img/home-3/home3-banner-video.png" alt="" />
+                                <img className="video-img" src="/assets/img/home-3/home3-banner-video.png" alt="" />
                             </div>
                         </div>
                     </div>
@@ -84,7 +84,7 @@ const Home = () => {
                             </div>
                         </div>
                         <div className="banner-image magnetic-item">
-                            <img className="img-fluid" src="assets/img/home-3/home3-banner-img3.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-3/home3-banner-img3.png" alt="" />
                         </div>
                         <div className="banner-video-area">
                             <div className="video-area">
@@ -93,7 +93,7 @@ const Home = () => {
                                         <path opacity="0.3" d="M30 17.0012C30 16.0359 29.4735 15.1469 28.5906 14.6218L4.75661 0.46019C3.79257 -0.111681 2.61693 -0.153462 1.60777 0.351093C0.601772 0.855365 0 1.78612 0 2.83996V31.1609C0 32.2148 0.601723 33.1452 1.60931 33.6498C2.079 33.8837 2.5828 34 3.08665 34C3.66595 34 4.24144 33.8456 4.75628 33.5407L28.5903 19.3813C29.4734 18.8559 30 17.9669 30 17.0016V17.0012ZM27.7302 18.1537L3.89624 32.3131C3.42844 32.5905 2.85862 32.6093 2.36997 32.3668C1.88133 32.1225 1.58884 31.6719 1.58884 31.1607V2.83969C1.58884 2.32846 1.88133 1.8761 2.36997 1.63359C2.59834 1.52102 2.84346 1.46385 3.08699 1.46385C3.36811 1.46385 3.64734 1.53842 3.89658 1.68755L27.7306 15.8492C28.1646 16.1074 28.4135 16.5287 28.4135 17.0033C28.4131 17.4763 28.1642 17.8955 27.7302 18.1537Z"/>
                                     </svg>
                                 </a>
-                                <img className="video-img" src="assets/img/home-3/home3-banner-video.png" alt="" />
+                                <img className="video-img" src="/assets/img/home-3/home3-banner-video.png" alt="" />
                             </div>
                         </div>
                     </div>
@@ -116,7 +116,7 @@ const Home = () => {
                             </div>
                         </div>
                         <div className="banner-image magnetic-item">
-                            <img className="img-fluid" src="assets/img/home-3/home3-banner-img2.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-3/home3-banner-img2.png" alt="" />
                         </div>
                         <div className="banner-video-area">
                             <div className="video-area">
@@ -125,7 +125,7 @@ const Home = () => {
                                         <path opacity="0.3" d="M30 17.0012C30 16.0359 29.4735 15.1469 28.5906 14.6218L4.75661 0.46019C3.79257 -0.111681 2.61693 -0.153462 1.60777 0.351093C0.601772 0.855365 0 1.78612 0 2.83996V31.1609C0 32.2148 0.601723 33.1452 1.60931 33.6498C2.079 33.8837 2.5828 34 3.08665 34C3.66595 34 4.24144 33.8456 4.75628 33.5407L28.5903 19.3813C29.4734 18.8559 30 17.9669 30 17.0016V17.0012ZM27.7302 18.1537L3.89624 32.3131C3.42844 32.5905 2.85862 32.6093 2.36997 32.3668C1.88133 32.1225 1.58884 31.6719 1.58884 31.1607V2.83969C1.58884 2.32846 1.88133 1.8761 2.36997 1.63359C2.59834 1.52102 2.84346 1.46385 3.08699 1.46385C3.36811 1.46385 3.64734 1.53842 3.89658 1.68755L27.7306 15.8492C28.1646 16.1074 28.4135 16.5287 28.4135 17.0033C28.4131 17.4763 28.1642 17.8955 27.7302 18.1537Z"/>
                                     </svg>
                                 </a>
-                                <img className="video-img" src="assets/img/home-3/home3-banner-video.png" alt="" />
+                                <img className="video-img" src="/assets/img/home-3/home3-banner-video.png" alt="" />
                             </div>
                         </div>
                     </div>
@@ -146,36 +146,36 @@ const Home = () => {
                 <div className="col-lg-9">
                     <div className="partner-wrapper">
                         <div className="marquee_text">
-                            <img src="assets/img/home-3/partner-01.svg" alt="" />
-                            <img src="assets/img/home-3/star.svg" alt="" />
-                            <img src="assets/img/home-3/partner-02.svg" alt="" />
-                            <img src="assets/img/home-3/star.svg" alt="" />
-                            <img src="assets/img/home-3/partner-03.svg" alt="" />
-                            <img src="assets/img/home-3/star.svg" alt="" />
-                            <img src="assets/img/home-3/partner-04.svg" alt="" />
-                            <img src="assets/img/home-3/star.svg" alt="" />
-                            <img src="assets/img/home-3/partner-05.svg" alt="" />
-                            <img src="assets/img/home-3/star.svg" alt="" />
-                            <img src="assets/img/home-3/partner-01.svg" alt="" />
-                            <img src="assets/img/home-3/star.svg" alt="" />
-                            <img src="assets/img/home-3/partner-02.svg" alt="" />
-                            <img src="assets/img/home-3/star.svg" alt="" />
-                            <img src="assets/img/home-3/partner-03.svg" alt="" />
-                            <img src="assets/img/home-3/star.svg" alt="" />
-                            <img src="assets/img/home-3/partner-04.svg" alt="" />
-                            <img src="assets/img/home-3/star.svg" alt="" />
-                            <img src="assets/img/home-3/partner-05.svg" alt="" />
-                            <img src="assets/img/home-3/star.svg" alt="" />
-                            <img src="assets/img/home-3/partner-01.svg" alt="" />
-                            <img src="assets/img/home-3/star.svg" alt="" />
-                            <img src="assets/img/home-3/partner-02.svg" alt="" />
-                            <img src="assets/img/home-3/star.svg" alt="" />
-                            <img src="assets/img/home-3/partner-03.svg" alt="" />
-                            <img src="assets/img/home-3/star.svg" alt="" />
-                            <img src="assets/img/home-3/partner-04.svg" alt="" />
-                            <img src="assets/img/home-3/star.svg" alt="" />
-                            <img src="assets/img/home-3/partner-05.svg" alt="" />
-                            <img src="assets/img/home-3/star.svg" alt="" />
+                            <img src="/assets/img/home-3/partner-01.svg" alt="" />
+                            <img src="/assets/img/home-3/star.svg" alt="" />
+                            <img src="/assets/img/home-3/partner-02.svg" alt="" />
+                            <img src="/assets/img/home-3/star.svg" alt="" />
+                            <img src="/assets/img/home-3/partner-03.svg" alt="" />
+                            <img src="/assets/img/home-3/star.svg" alt="" />
+                            <img src="/assets/img/home-3/partner-04.svg" alt="" />
+                            <img src="/assets/img/home-3/star.svg" alt="" />
+                            <img src="/assets/img/home-3/partner-05.svg" alt="" />
+                            <img src="/assets/img/home-3/star.svg" alt="" />
+                            <img src="/assets/img/home-3/partner-01.svg" alt="" />
+                            <img src="/assets/img/home-3/star.svg" alt="" />
+                            <img src="/assets/img/home-3/partner-02.svg" alt="" />
+                            <img src="/assets/img/home-3/star.svg" alt="" />
+                            <img src="/assets/img/home-3/partner-03.svg" alt="" />
+                            <img src="/assets/img/home-3/star.svg" alt="" />
+                            <img src="/assets/img/home-3/partner-04.svg" alt="" />
+                            <img src="/assets/img/home-3/star.svg" alt="" />
+                            <img src="/assets/img/home-3/partner-05.svg" alt="" />
+                            <img src="/assets/img/home-3/star.svg" alt="" />
+                            <img src="/assets/img/home-3/partner-01.svg" alt="" />
+                            <img src="/assets/img/home-3/star.svg" alt="" />
+                            <img src="/assets/img/home-3/partner-02.svg" alt="" />
+                            <img src="/assets/img/home-3/star.svg" alt="" />
+                            <img src="/assets/img/home-3/partner-03.svg" alt="" />
+                            <img src="/assets/img/home-3/star.svg" alt="" />
+                            <img src="/assets/img/home-3/partner-04.svg" alt="" />
+                            <img src="/assets/img/home-3/star.svg" alt="" />
+                            <img src="/assets/img/home-3/partner-05.svg" alt="" />
+                            <img src="/assets/img/home-3/star.svg" alt="" />
                         </div>
                     </div>
                 </div>
@@ -391,7 +391,7 @@ const Home = () => {
                     </div>
                     <div className="about-left">
                         <div className="about-img  wow animate fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                            <img className="img-fluid magnetic-item" src="assets/img/home-3/home3-about-1.png" alt="" />
+                            <img className="img-fluid magnetic-item" src="/assets/img/home-3/home3-about-1.png" alt="" />
                         </div>
                         <div className="about-content wow animate fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
                             <h2>Unlock the potential of your business.</h2>
@@ -413,11 +413,11 @@ const Home = () => {
                 <div className="col-lg-3">
                     <div className="about-right">
                         <div className="about-img wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-                            <img className="img-fluid magnetic-item" src="assets/img/home-3/home3-about-2.png" alt="" />
+                            <img className="img-fluid magnetic-item" src="/assets/img/home-3/home3-about-2.png" alt="" />
                         </div>
                         <div className="about-exprience d-flex align-items-center justify-content-center wow animate fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                             <div className="exp-text">
-                                <img src="assets/img/home-3/rotate-text.png" alt="" />
+                                <img src="/assets/img/home-3/rotate-text.png" alt="" />
                             </div>
                             <div className="years">
                                 <h2>10<br /><span>Years</span></h2>
@@ -463,7 +463,7 @@ const Home = () => {
                             <div className="swiper-slide">
                                 <div className="success-storie-card">
                                     <div className="success-img">
-                                        <img className="img-fluid magnetic-item" src="assets/img/home-3/home3-suc-sto-01.png" alt="" />
+                                        <img className="img-fluid magnetic-item" src="/assets/img/home-3/home3-suc-sto-01.png" alt="" />
                                     </div>
                                     <div className="success-content">
                                         <span>Web development</span>
@@ -481,7 +481,7 @@ const Home = () => {
                             <div className="swiper-slide">
                                 <div className="success-storie-card">
                                     <div className="success-img">
-                                        <img className="img-fluid magnetic-item" src="assets/img/home-3/home3-suc-sto-02.png" alt="" />
+                                        <img className="img-fluid magnetic-item" src="/assets/img/home-3/home3-suc-sto-02.png" alt="" />
                                     </div>
                                     <div className="success-content">
                                         <span>Web development</span>
@@ -499,7 +499,7 @@ const Home = () => {
                             <div className="swiper-slide">
                                 <div className="success-storie-card">
                                     <div className="success-img">
-                                        <img className="img-fluid magnetic-item" src="assets/img/home-3/home3-suc-sto-03.png" alt="" />
+                                        <img className="img-fluid magnetic-item" src="/assets/img/home-3/home3-suc-sto-03.png" alt="" />
                                     </div>
                                     <div className="success-content">
                                         <span>Web development</span>
@@ -517,7 +517,7 @@ const Home = () => {
                             <div className="swiper-slide">
                                 <div className="success-storie-card">
                                     <div className="success-img">
-                                        <img className="img-fluid magnetic-item" src="assets/img/home-3/home3-suc-sto-04.png" alt="" />
+                                        <img className="img-fluid magnetic-item" src="/assets/img/home-3/home3-suc-sto-04.png" alt="" />
                                     </div>
                                     <div className="success-content">
                                         <span>Web development</span>
@@ -535,7 +535,7 @@ const Home = () => {
                             <div className="swiper-slide">
                                 <div className="success-storie-card">
                                     <div className="success-img">
-                                        <img className="img-fluid magnetic-item" src="assets/img/home-3/home3-suc-sto-05.png" alt="" />
+                                        <img className="img-fluid magnetic-item" src="/assets/img/home-3/home3-suc-sto-05.png" alt="" />
                                     </div>
                                     <div className="success-content">
                                         <span>Web development</span>
@@ -724,8 +724,8 @@ const Home = () => {
                                 <div className="swiper-slide">
                                     <div className="testimonial-card3">
                                         <div className="testimonial-top d-flex justify-content-between align-items-center">
-                                            <div className="review-left"><img src="assets/img/home-3/google-logo.png" alt="" style={{ height: "30px" }} /></div>
-                                            <div className="review-right"><img src="assets/img/home-4/trastpilot-star.svg" alt="" /></div>
+                                            <div className="review-left"><img src="/assets/img/home-3/google-logo.png" alt="" style={{ height: "30px" }} /></div>
+                                            <div className="review-right"><img src="/assets/img/home-4/trastpilot-star.svg" alt="" /></div>
                                         </div>
                                         <div className="testimonial-content mt-4">
                                             <p style={{ fontSize: "20px", color: "#ccc" }}>“Integer purus odio, placerat nec rhoncus in, ullamcorper nec dolor. Donec lacinia placerat felis non aliquam.”</p>
@@ -736,15 +736,15 @@ const Home = () => {
                                             <p style={{ fontSize: "12px", color: "#666" }}>May 9, 2023 | 10.30 PM</p>
                                         </div>
                                         <div className="author-img-wrapper">
-                                            <img src="assets/img/home-3/h3-testi-01.png" alt="" className="img-fluid" />
+                                            <img src="/assets/img/home-3/h3-testi-01.png" alt="" className="img-fluid" />
                                         </div>
                                     </div>
                                 </div>
                                 <div className="swiper-slide">
                                     <div className="testimonial-card3">
                                         <div className="testimonial-top d-flex justify-content-between align-items-center">
-                                            <div className="review-left"><img src="assets/img/home-4/trustpilot.svg" alt="" style={{ height: "30px" }} /></div>
-                                            <div className="review-right"><img src="assets/img/home-4/trastpilot-star.svg" alt="" /></div>
+                                            <div className="review-left"><img src="/assets/img/home-4/trustpilot.svg" alt="" style={{ height: "30px" }} /></div>
+                                            <div className="review-right"><img src="/assets/img/home-4/trastpilot-star.svg" alt="" /></div>
                                         </div>
                                         <div className="testimonial-content mt-4">
                                             <p style={{ fontSize: "20px", color: "#ccc" }}>“Integer purus odio, placerat nec rhoncus in, ullamcorper nec dolor. Donec lacinia placerat felis non aliquam.”</p>
@@ -755,7 +755,7 @@ const Home = () => {
                                             <p style={{ fontSize: "12px", color: "#666" }}>May 9, 2023 | 10.30 PM</p>
                                         </div>
                                         <div className="author-img-wrapper">
-                                            <img src="assets/img/home-3/h3-testi-02.png" alt="" className="img-fluid" />
+                                            <img src="/assets/img/home-3/h3-testi-02.png" alt="" className="img-fluid" />
                                         </div>
                                     </div>
                                 </div>
@@ -803,7 +803,7 @@ const Home = () => {
                                                 <h2><sup>$</sup>29<sub>/Month</sub></h2>
                                            </div>
                                            <div className="right">
-                                            <img src="assets/img/home-3/pricing-vec1.svg" alt="" />
+                                            <img src="/assets/img/home-3/pricing-vec1.svg" alt="" />
                                            </div>
                                         </div>
                                         <div className="pricing-content">
@@ -864,7 +864,7 @@ const Home = () => {
                                            </div>
                                            <div className="right">
                                                 <div className="offer-tag">
-                                                    <img src="assets/img/home-3/price-bg.svg" alt="" />
+                                                    <img src="/assets/img/home-3/price-bg.svg" alt="" />
                                                     <h5>30% <br /><span>Off</span></h5>
                                                 </div>
                                            </div>
@@ -926,7 +926,7 @@ const Home = () => {
                                                 <h2><sup>$</sup>89<sub>/Month</sub></h2>
                                            </div>
                                            <div className="right">
-                                            <img src="assets/img/home-3/pricing-vec2.svg" alt="" />
+                                            <img src="/assets/img/home-3/pricing-vec2.svg" alt="" />
                                            </div>
                                         </div>
                                         <div className="pricing-content">
@@ -990,7 +990,7 @@ const Home = () => {
                                                 <h2><sup>$</sup>290<sub>/Year</sub></h2>
                                            </div>
                                            <div className="right">
-                                            <img src="assets/img/home-3/pricing-vec1.svg" alt="" />
+                                            <img src="/assets/img/home-3/pricing-vec1.svg" alt="" />
                                            </div>
                                         </div>
                                         <div className="pricing-content">
@@ -1051,7 +1051,7 @@ const Home = () => {
                                            </div>
                                            <div className="right">
                                                 <div className="offer-tag">
-                                                    <img src="assets/img/home-3/price-bg.svg" alt="" />
+                                                    <img src="/assets/img/home-3/price-bg.svg" alt="" />
                                                     <h5>30% <br /><span>Off</span></h5>
                                                 </div>
                                            </div>
@@ -1113,7 +1113,7 @@ const Home = () => {
                                                 <h2><sup>$</sup>890<sub>/Year</sub></h2>
                                            </div>
                                            <div className="right">
-                                            <img src="assets/img/home-3/pricing-vec2.svg" alt="" />
+                                            <img src="/assets/img/home-3/pricing-vec2.svg" alt="" />
                                            </div>
                                         </div>
                                         <div className="pricing-content">
@@ -1210,7 +1210,7 @@ const Home = () => {
                 <div className="col-lg-3 col-sm-6 experts wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div className="experts-card magnetic-item">
                         <div className="experts-img">
-                            <img className="img-fluid" src="assets/img/home-4/experts-01.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-4/experts-01.png" alt="" />
                             <div className="expert-social">
                                 <ul>
                                     <li><a href="https://www.facebook.com/"><i className="bx bxl-facebook"></i></a></li>
@@ -1229,7 +1229,7 @@ const Home = () => {
                 <div className="col-lg-3 col-sm-6 experts wow animate fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div className="experts-card magnetic-item">
                         <div className="experts-img">
-                            <img className="img-fluid" src="assets/img/home-4/experts-02.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-4/experts-02.png" alt="" />
                             <div className="expert-social">
                                <ul>
                                     <li><a href="https://www.facebook.com/"><i className="bx bxl-facebook"></i></a></li>
@@ -1248,7 +1248,7 @@ const Home = () => {
                 <div className="col-lg-3 col-sm-6 experts wow animate fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
                     <div className="experts-card magnetic-item">
                         <div className="experts-img">
-                            <img className="img-fluid" src="assets/img/home-4/experts-03.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-4/experts-03.png" alt="" />
                             <div className="expert-social">
                                <ul>
                                     <li><a href="https://www.facebook.com/"><i className="bx bxl-facebook"></i></a></li>
@@ -1267,7 +1267,7 @@ const Home = () => {
                 <div className="col-lg-3 col-sm-6 experts wow animate fadeInUp" data-wow-delay="500ms" data-wow-duration="1500ms">
                     <div className="experts-card magnetic-item">
                         <div className="experts-img">
-                            <img className="img-fluid" src="assets/img/home-4/experts-04.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-4/experts-04.png" alt="" />
                             <div className="expert-social">
                                <ul>
                                     <li><a href="https://www.facebook.com/"><i className="bx bxl-facebook"></i></a></li>
@@ -1303,7 +1303,7 @@ const Home = () => {
                 <div className="col-lg-4 col-md-6 wow animate fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div className="single-blog magnetic-item">
                         <div className="blog-img">
-                            <img className="img-fluid" src="assets/img/home-3/home3-blog-01.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-3/home3-blog-01.png" alt="" />
                             <div className="blog-tag">
                                 <Link to="/blog">Web development</Link>
                             </div>
@@ -1329,7 +1329,7 @@ const Home = () => {
                                         <li><a href="https://www.pinterest.com/"><i className="bx bxl-pinterest-alt"></i></a></li>
                                         <li><a href="https://www.instagram.com/"><i className="bx bxl-instagram"></i></a></li>
                                     </ul>
-                                    <span><img src="assets/img/home-3/plain-icon.svg" alt="" /></span>
+                                    <span><img src="/assets/img/home-3/plain-icon.svg" alt="" /></span>
                                 </div>
                             </div>
                         </div>
@@ -1338,7 +1338,7 @@ const Home = () => {
                 <div className="col-lg-4 col-md-6 wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div className="single-blog magnetic-item">
                         <div className="blog-img">
-                            <img className="img-fluid" src="assets/img/home-3/home3-blog-02.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-3/home3-blog-02.png" alt="" />
                             <div className="blog-tag">
                                 <Link to="/blog">Cloud solutions</Link>
                             </div>
@@ -1364,7 +1364,7 @@ const Home = () => {
                                         <li><a href="https://www.pinterest.com/"><i className="bx bxl-pinterest-alt"></i></a></li>
                                         <li><a href="https://www.instagram.com/"><i className="bx bxl-instagram"></i></a></li>
                                     </ul>
-                                    <span><img src="assets/img/home-3/plain-icon.svg" alt="" /></span>
+                                    <span><img src="/assets/img/home-3/plain-icon.svg" alt="" /></span>
                                 </div>
                             </div>
                         </div>
@@ -1373,7 +1373,7 @@ const Home = () => {
                 <div className="col-lg-4 col-md-6 wow animate fadeInRight" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div className="single-blog magnetic-item">
                         <div className="blog-img">
-                            <img className="img-fluid" src="assets/img/home-3/home3-blog-03.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-3/home3-blog-03.png" alt="" />
                             <div className="blog-tag">
                                 <Link to="/blog">Web development</Link>
                             </div>
@@ -1399,7 +1399,7 @@ const Home = () => {
                                         <li><a href="https://www.pinterest.com/"><i className="bx bxl-pinterest-alt"></i></a></li>
                                         <li><a href="https://www.instagram.com/"><i className="bx bxl-instagram"></i></a></li>
                                     </ul>
-                                    <span><img src="assets/img/home-3/plain-icon.svg" alt="" /></span>
+                                    <span><img src="/assets/img/home-3/plain-icon.svg" alt="" /></span>
                                 </div>
                             </div>
                         </div>

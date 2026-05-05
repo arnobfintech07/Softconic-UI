@@ -83,10 +83,10 @@ const About = () => {
     <section className="breadcrumbs">
         <div className="breadcrumb-sm-images">
             <div className="inner-banner-1 magnetic-item">
-                <img src="assets/img/inner-pages/inner-banner-1.png" alt="" />
+                <img src="/assets/img/inner-pages/inner-banner-1.png" alt="" />
             </div>
             <div className="inner-banner-2 magnetic-item">
-                <img src="assets/img/inner-pages/inner-banner-2.png" alt="" />
+                <img src="/assets/img/inner-pages/inner-banner-2.png" alt="" />
             </div>
         </div>
         <div className="container">
@@ -97,7 +97,7 @@ const About = () => {
                             <span>About</span>
                             <h1>"Get To Know About Softconic"</h1>
                             <div className="breadcrumb-list">
-                                <Link to="/">Home</Link><img src="assets/img/inner-pages/breadcrumb-arrow.svg" alt="" /> About
+                                <Link to="/">Home</Link><img src="/assets/img/inner-pages/breadcrumb-arrow.svg" alt="" /> About
                             </div>
                            
                         </div>
@@ -118,7 +118,7 @@ const About = () => {
                     </div>
                     <div className="about-left">
                         <div className="about-img  wow animate fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
-                            <img className="img-fluid magnetic-item" src="assets/img/home-3/home3-about-1.png" alt="" />
+                            <img className="img-fluid magnetic-item" src="/assets/img/home-3/home3-about-1.png" alt="" />
                         </div>
                         <div className="about-content wow animate fadeInUp" data-wow-delay="400ms" data-wow-duration="1500ms">
                             <h2>Unlock the potential of your business.</h2>
@@ -140,11 +140,11 @@ const About = () => {
                 <div className="col-lg-3">
                     <div className="about-right">
                         <div className="about-img wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
-                            <img className="img-fluid magnetic-item" src="assets/img/home-3/home3-about-2.png" alt="" />
+                            <img className="img-fluid magnetic-item" src="/assets/img/home-3/home3-about-2.png" alt="" />
                         </div>
                         <div className="about-exprience d-flex align-items-center justify-content-center wow animate fadeInUp" data-wow-delay="300ms" data-wow-duration="1500ms">
                             <div className="exp-text">
-                                <img src="assets/img/home-3/rotate-text.png" alt="" />
+                                <img src="/assets/img/home-3/rotate-text.png" alt="" />
                             </div>
                             <div className="years">
                                 <h2>10<br /><span>Years</span></h2>
@@ -170,7 +170,7 @@ const About = () => {
                         </div>
                         <div className="col-lg-6">
                             <div className="choose-right-img magnetic-item">
-                                <img className="img-fluid " src="assets/img/home-6/choose-img-1.png" alt="" />
+                                <img className="img-fluid " src="/assets/img/home-6/choose-img-1.png" alt="" />
                             </div>
                         </div>
                     </div>
@@ -180,11 +180,11 @@ const About = () => {
                         <div className="col-lg-7">
                             <div className="choose-left-content">
                                 <div className="vectors">
-                                    <img className="choose-vec-top-r" src="assets/img/home-6/choose-vec-top-r.svg" alt="" />
-                                    <img className="choose-vec-btm-l" src="assets/img/home-6/choose-vec-btm-l.svg" alt="" />
+                                    <img className="choose-vec-top-r" src="/assets/img/home-6/choose-vec-top-r.svg" alt="" />
+                                    <img className="choose-vec-btm-l" src="/assets/img/home-6/choose-vec-btm-l.svg" alt="" />
                                 </div>
                                 <div className="icon">
-                                    <img src="assets/img/logo.svg" alt="" />
+                                    <img src="/assets/img/logo.svg" alt="" />
                                 </div>
                                 <h4>Best Creative IT Agency And Solutions <br />
                                     <span>Since 2005.</span></h4>
@@ -392,94 +392,94 @@ const About = () => {
         <div className="marque-wrap">
             <div className="marquee_text">
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-01.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-01.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-02.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-02.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-03.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-03.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-04.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-04.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-05.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-05.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-01.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-01.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-02.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-02.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-03.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-03.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-04.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-04.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-05.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-05.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-01.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-01.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-02.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-02.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-03.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-03.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-04.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-04.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-05.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-05.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-01.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-01.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-02.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-02.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-03.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-03.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-04.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-04.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-05.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-05.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-01.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-01.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-02.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-02.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-03.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-03.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-04.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-04.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-05.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-05.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-01.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-01.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-02.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-02.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-03.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-03.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-04.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-04.svg" alt="" />
                 </div>
                 <div className="single-client">
-                    <img className="img-fluid" src="assets/img/home-4/client-05.svg" alt="" />
+                    <img className="img-fluid" src="/assets/img/home-4/client-05.svg" alt="" />
                 </div>
             </div>
         </div>
@@ -512,14 +512,14 @@ const About = () => {
                             <div className="swiper-slide">
                                 <div className="testimonial-card3">
                                     <div className="quate-icon">
-                                        <img src="assets/img/home-4/left-quote.svg" alt="" />
+                                        <img src="/assets/img/home-4/left-quote.svg" alt="" />
                                     </div>
                                     <div className="testimonial-top">
                                         <div className="review-left">
-                                            <img src="assets/img/home-4/trustpilot.svg" alt="" />
+                                            <img src="/assets/img/home-4/trustpilot.svg" alt="" />
                                         </div>
                                         <div className="review-right">
-                                            <img src="assets/img/home-4/trastpilot-star.svg" alt="" />
+                                            <img src="/assets/img/home-4/trastpilot-star.svg" alt="" />
                                         </div>
                                     </div>
                                     <div className="testimonial-content">
@@ -542,17 +542,17 @@ const About = () => {
                                     </div>
                                 </div>
                                 <div className="author-img">
-                                    <img src="assets/img/home-4/h4-testi-03.png" alt="" />
+                                    <img src="/assets/img/home-4/h4-testi-03.png" alt="" />
                                 </div>
                             </div>
                             <div className="swiper-slide">
                                 <div className="testimonial-card3">
                                     <div className="quate-icon">
-                                        <img src="assets/img/home-4/left-quote.svg" alt="" />
+                                        <img src="/assets/img/home-4/left-quote.svg" alt="" />
                                     </div>
                                     <div className="testimonial-top">
                                         <div className="review-left">
-                                            <img src="assets/img/home-4/google.svg" alt="" />
+                                            <img src="/assets/img/home-4/google.svg" alt="" />
                                         </div>
                                         <div className="review-right">
                                             <ul className="star">
@@ -584,20 +584,20 @@ const About = () => {
                                     </div>
                                 </div>
                                 <div className="author-img">
-                                    <img src="assets/img/home-4/h4-testi-03.png" alt="" />
+                                    <img src="/assets/img/home-4/h4-testi-03.png" alt="" />
                                 </div>
                             </div>
                             <div className="swiper-slide">
                                 <div className="testimonial-card3">
                                     <div className="quate-icon">
-                                        <img src="assets/img/home-4/left-quote.svg" alt="" />
+                                        <img src="/assets/img/home-4/left-quote.svg" alt="" />
                                     </div>
                                     <div className="testimonial-top">
                                         <div className="review-left">
-                                            <img src="assets/img/home-4/trustpilot.svg" alt="" />
+                                            <img src="/assets/img/home-4/trustpilot.svg" alt="" />
                                         </div>
                                         <div className="review-right">
-                                            <img src="assets/img/home-4/trastpilot-star.svg" alt="" />
+                                            <img src="/assets/img/home-4/trastpilot-star.svg" alt="" />
                                         </div>
                                     </div>
                                     <div className="testimonial-content">
@@ -620,17 +620,17 @@ const About = () => {
                                     </div>
                                 </div>
                                 <div className="author-img">
-                                    <img src="assets/img/home-4/h4-testi-03.png" alt="" />
+                                    <img src="/assets/img/home-4/h4-testi-03.png" alt="" />
                                 </div>
                             </div>
                             <div className="swiper-slide">
                                 <div className="testimonial-card3">
                                     <div className="quate-icon">
-                                        <img src="assets/img/home-4/left-quote.svg" alt="" />
+                                        <img src="/assets/img/home-4/left-quote.svg" alt="" />
                                     </div>
                                     <div className="testimonial-top">
                                         <div className="review-left">
-                                            <img src="assets/img/home-4/google.svg" alt="" />
+                                            <img src="/assets/img/home-4/google.svg" alt="" />
                                         </div>
                                         <div className="review-right">
                                             <ul className="star">
@@ -662,7 +662,7 @@ const About = () => {
                                     </div>
                                 </div>
                                 <div className="author-img">
-                                    <img src="assets/img/home-4/h4-testi-03.png" alt="" />
+                                    <img src="/assets/img/home-4/h4-testi-03.png" alt="" />
                                 </div>
                             </div>
                         </div>
@@ -692,7 +692,7 @@ const About = () => {
                             <div className="swiper-slide">
                                 <div className="single-team">
                                     <div className="team-img">
-                                        <img className="img-fluid" src="assets/img/home-3/team-01.png" alt="" />
+                                        <img className="img-fluid" src="/assets/img/home-3/team-01.png" alt="" />
                                         <div className="social-area">
                                             <ul>
                                                 <li><a href="https://www.facebook.com/"><i className="bx bxl-facebook"></i></a></li>
@@ -711,7 +711,7 @@ const About = () => {
                             <div className="swiper-slide">
                                 <div className="single-team">
                                     <div className="team-img">
-                                        <img className="img-fluid" src="assets/img/home-3/team-02.png" alt="" />
+                                        <img className="img-fluid" src="/assets/img/home-3/team-02.png" alt="" />
                                         <div className="social-area">
                                             <ul>
                                                 <li><a href="https://www.facebook.com/"><i className="bx bxl-facebook"></i></a></li>
@@ -730,7 +730,7 @@ const About = () => {
                             <div className="swiper-slide">
                                 <div className="single-team">
                                     <div className="team-img">
-                                        <img className="img-fluid" src="assets/img/home-3/team-03.png" alt="" />
+                                        <img className="img-fluid" src="/assets/img/home-3/team-03.png" alt="" />
                                         <div className="social-area">
                                             <ul>
                                                 <li><a href="https://www.facebook.com/"><i className="bx bxl-facebook"></i></a></li>
@@ -749,7 +749,7 @@ const About = () => {
                             <div className="swiper-slide">
                                 <div className="single-team">
                                     <div className="team-img">
-                                        <img className="img-fluid" src="assets/img/home-3/team-04.png" alt="" />
+                                        <img className="img-fluid" src="/assets/img/home-3/team-04.png" alt="" />
                                         <div className="social-area">
                                             <ul>
                                                 <li><a href="https://www.facebook.com/"><i className="bx bxl-facebook"></i></a></li>
@@ -814,7 +814,7 @@ const About = () => {
                 <div className="col-lg-4 col-md-6 wow animate fadeInLeft" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div className="single-blog magnetic-item">
                         <div className="blog-img">
-                            <img className="img-fluid" src="assets/img/home-3/home3-blog-01.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-3/home3-blog-01.png" alt="" />
                             <div className="blog-tag">
                                 <Link to="/blog">Web development</Link>
                             </div>
@@ -840,7 +840,7 @@ const About = () => {
                                         <li><a href="https://www.pinterest.com/"><i className="bx bxl-pinterest-alt"></i></a></li>
                                         <li><a href="https://www.instagram.com/"><i className="bx bxl-instagram"></i></a></li>
                                     </ul>
-                                    <span><img src="assets/img/home-3/plain-icon.svg" alt="" /></span>
+                                    <span><img src="/assets/img/home-3/plain-icon.svg" alt="" /></span>
                                 </div>
                             </div>
                         </div>
@@ -849,7 +849,7 @@ const About = () => {
                 <div className="col-lg-4 col-md-6 wow animate fadeInUp" data-wow-delay="200ms" data-wow-duration="1500ms">
                     <div className="single-blog magnetic-item">
                         <div className="blog-img">
-                            <img className="img-fluid" src="assets/img/home-3/home3-blog-02.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-3/home3-blog-02.png" alt="" />
                             <div className="blog-tag">
                                 <Link to="/blog">Cloud solutions</Link>
                             </div>
@@ -875,7 +875,7 @@ const About = () => {
                                         <li><a href="https://www.pinterest.com/"><i className="bx bxl-pinterest-alt"></i></a></li>
                                         <li><a href="https://www.instagram.com/"><i className="bx bxl-instagram"></i></a></li>
                                     </ul>
-                                    <span><img src="assets/img/home-3/plain-icon.svg" alt="" /></span>
+                                    <span><img src="/assets/img/home-3/plain-icon.svg" alt="" /></span>
                                 </div>
                             </div>
                         </div>
@@ -884,7 +884,7 @@ const About = () => {
                 <div className="col-lg-4 col-md-6 wow animate fadeInRight" data-wow-delay="300ms" data-wow-duration="1500ms">
                     <div className="single-blog magnetic-item">
                         <div className="blog-img">
-                            <img className="img-fluid" src="assets/img/home-3/home3-blog-03.png" alt="" />
+                            <img className="img-fluid" src="/assets/img/home-3/home3-blog-03.png" alt="" />
                             <div className="blog-tag">
                                 <Link to="/blog">Web development</Link>
                             </div>
@@ -910,7 +910,7 @@ const About = () => {
                                         <li><a href="https://www.pinterest.com/"><i className="bx bxl-pinterest-alt"></i></a></li>
                                         <li><a href="https://www.instagram.com/"><i className="bx bxl-instagram"></i></a></li>
                                     </ul>
-                                    <span><img src="assets/img/home-3/plain-icon.svg" alt="" /></span>
+                                    <span><img src="/assets/img/home-3/plain-icon.svg" alt="" /></span>
                                 </div>
                             </div>
                         </div>

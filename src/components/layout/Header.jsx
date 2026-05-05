@@ -6,12 +6,12 @@ const Header = () => {
     {/*  Start header section  */}
     <header className="header-area2 one">
         <div className="header-logo">
-            <Link to="/"><img alt="image" className="img-fluid" src="assets/img/logo.svg" /></Link>
+            <Link to="/"><img alt="image" className="img-fluid" src="/assets/img/logo.svg" /></Link>
         </div>
         <div className="main-menu">
             <div className="mobile-logo-area d-lg-none d-flex justify-content-between align-items-center">
                 <div className="mobile-logo-wrap">
-                    <Link to="/"><img alt="image" src="assets/img/logo.svg" /></Link>
+                    <Link to="/"><img alt="image" src="/assets/img/logo.svg" /></Link>
                 </div>
             </div>
             <ul className="menu-list">
@@ -135,7 +135,7 @@ const Header = () => {
         </div>
         <div className="nav-right d-flex jsutify-content-end align-items-center">
             <div className="sidebar-btn2">
-                <img src="assets/img/home-3/sidebar-btn.svg" alt="" />
+                <img src="/assets/img/home-3/sidebar-btn.svg" alt="" />
             </div>
             <div className="sidebar-button mobile-menu-btn ">
                 <span></span>

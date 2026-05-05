@@ -12,10 +12,10 @@ const Service4 = () => {
     <section className="breadcrumbs">
         <div className="breadcrumb-sm-images">
             <div className="inner-banner-1 magnetic-item">
-                <img src="assets/img/inner-pages/inner-banner-1.png" alt=""/>
+                <img src="/assets/img/inner-pages/inner-banner-1.png" alt=""/>
             </div>
             <div className="inner-banner-2 magnetic-item">
-                <img src="assets/img/inner-pages/inner-banner-2.png" alt=""/>
+                <img src="/assets/img/inner-pages/inner-banner-2.png" alt=""/>
             </div>
         </div>
         <div className="container">
@@ -26,7 +26,7 @@ const Service4 = () => {
                             <span>Services</span>
                             <h1>"Our Providing Services"</h1>
                             <div className="breadcrumb-list">
-                                <Link to="/">Home</Link><img src="assets/img/inner-pages/breadcrumb-arrow.svg" alt=""/> Services
+                                <Link to="/">Home</Link><img src="/assets/img/inner-pages/breadcrumb-arrow.svg" alt=""/> Services
                             </div>
                            
                         </div>
@@ -42,7 +42,7 @@ const Service4 = () => {
                 <div className="col-lg-4 col-lg-4 col-md-6 col-sm-10">
                     <div className="single-solution">
                         <div className="background-img">
-                            <img src="assets/img/home-6/home6-solution-bg2.png" alt=""/>
+                            <img src="/assets/img/home-6/home6-solution-bg2.png" alt=""/>
                         </div>
                         <div className="sl">
                             <h2>01</h2>
@@ -89,7 +89,7 @@ const Service4 = () => {
                 <div className="col-lg-4 col-lg-4 col-md-6 col-sm-10">
                     <div className="single-solution">
                         <div className="background-img">
-                            <img src="assets/img/home-6/home6-solution-bg3.png" alt=""/>
+                            <img src="/assets/img/home-6/home6-solution-bg3.png" alt=""/>
                         </div>
                         <div className="sl">
                             <h2>02</h2>
@@ -136,7 +136,7 @@ const Service4 = () => {
                 <div className="col-lg-4 col-lg-4 col-md-6 col-sm-10">
                     <div className="single-solution">
                         <div className="background-img">
-                            <img src="assets/img/home-6/home6-solution-bg4.png" alt=""/>
+                            <img src="/assets/img/home-6/home6-solution-bg4.png" alt=""/>
                         </div>
                         <div className="sl">
                             <h2>03</h2>
@@ -187,7 +187,7 @@ const Service4 = () => {
                 <div className="col-lg-4 col-lg-4 col-md-6 col-sm-10">
                     <div className="single-solution">
                         <div className="background-img">
-                            <img src="assets/img/home-6/home6-solution-bg4.png" alt=""/>
+                            <img src="/assets/img/home-6/home6-solution-bg4.png" alt=""/>
                         </div>
                         <div className="sl">
                             <h2>04</h2>
@@ -240,7 +240,7 @@ const Service4 = () => {
                 <div className="col-lg-4 col-lg-4 col-md-6 col-sm-10">
                     <div className="single-solution">
                         <div className="background-img">
-                            <img src="assets/img/home-6/home6-solution-bg4.png" alt=""/>
+                            <img src="/assets/img/home-6/home6-solution-bg4.png" alt=""/>
                         </div>
                         <div className="sl">
                             <h2>05</h2>
@@ -288,7 +288,7 @@ const Service4 = () => {
                 <div className="col-lg-4 col-lg-4 col-md-6 col-sm-10">
                     <div className="single-solution">
                         <div className="background-img">
-                            <img src="assets/img/home-6/home6-solution-bg4.png" alt=""/>
+                            <img src="/assets/img/home-6/home6-solution-bg4.png" alt=""/>
                         </div>
                         <div className="sl">
                             <h2>06</h2>
