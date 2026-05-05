@@ -9,6 +9,7 @@ import Service2 from './pages/Service2';
 import Service3 from './pages/Service3';
 import Service4 from './pages/Service4';
 import ServiceDetails from './pages/ServiceDetails';
+import Project from './pages/Project';
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
           <Route path="service3" element={<Service3 />} />
           <Route path="service4" element={<Service4 />} />
           <Route path="service-details" element={<ServiceDetails />} />
+          <Route path="project" element={<Project />} />
         </Route>
       </Routes>
     </BrowserRouter>
