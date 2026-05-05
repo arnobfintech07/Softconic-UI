@@ -12,6 +12,7 @@ import ServiceDetails from './pages/ServiceDetails';
 import Project from './pages/Project';
 import ProjectDetails from './pages/ProjectDetails';
 import ProjectMasonary from './pages/ProjectMasonary';
+import Team1 from './pages/Team1';
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
           <Route path="project" element={<Project />} />
           <Route path="project-details" element={<ProjectDetails />} />
           <Route path="project-masonary" element={<ProjectMasonary />} />
+          <Route path="team1" element={<Team1 />} />
         </Route>
       </Routes>
     </BrowserRouter>
