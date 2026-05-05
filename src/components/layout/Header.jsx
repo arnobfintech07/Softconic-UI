@@ -19,9 +19,9 @@ const Header = () => {
                     <Link to="/" className="drop-down">Home</Link><i className="bi bi-plus dropdown-icon"></i>
                     <ul className="sub-menu">
                         <li><Link to="/">Home 01</Link></li>
-                        <li><Link to="/index2">Home 02</Link></li>
-                        <li><Link to="/index3">Home 03</Link></li>
-                        <li><Link to="/index4">Home 04</Link></li>
+                        <li><Link to="/">Home 02</Link></li>
+                        <li><Link to="/">Home 03</Link></li>
+                        <li><Link to="/">Home 04</Link></li>
                     </ul>
                 </li>
                 <li><Link to="/about">About</Link></li>
@@ -129,7 +129,7 @@ const Header = () => {
                     </div>
                 </form>
                 <div className="header-btn5">
-                    <a className="primary-btn3" to="/contact">Get A Quote</a>
+                    <Link className="primary-btn3" to="/contact">Get A Quote</Link>
                 </div>
             </div>
         </div>
