@@ -39,7 +39,7 @@ const Header = () => {
                     <Link to="/" className="drop-down">Project</Link><i className="bi bi-plus dropdown-icon"></i>
                     <ul className="sub-menu">
                         <li><Link to="/project">Project</Link></li>
-                        <li><a href="project-masonary.html">Project Masonry</a></li>
+                        <li><Link to="/project-masonary">Project Masonry</Link></li>
                      <li><Link to="/project-details">Project Details</Link></li>
                     </ul>
                 </li>
@@ -75,7 +75,7 @@ const Header = () => {
                     <ul className="sub-menu">
                         <li><Link to="/case-study">Case study 01</Link></li>
                         <li><Link to="/case-study2">Case study 02</Link></li>
-                        <li><a href="case-study-standard.html">Case study standard</a></li>
+                        <li><Link to="/case-study-standard">Case study standard</Link></li>
                         <li><Link to="/case-study-details">Case study Details</Link></li>
                     </ul>
                 </li>

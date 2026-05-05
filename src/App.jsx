@@ -11,6 +11,7 @@ import Service4 from './pages/Service4';
 import ServiceDetails from './pages/ServiceDetails';
 import Project from './pages/Project';
 import ProjectDetails from './pages/ProjectDetails';
+import ProjectMasonary from './pages/ProjectMasonary';
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
           <Route path="service-details" element={<ServiceDetails />} />
           <Route path="project" element={<Project />} />
           <Route path="project-details" element={<ProjectDetails />} />
+          <Route path="project-masonary" element={<ProjectMasonary />} />
         </Route>
       </Routes>
     </BrowserRouter>
